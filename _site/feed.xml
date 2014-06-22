@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://incorporated.sendtoinc.com</link>
-    <atom:link href="http://incorporated.sendtoinc.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://cupick.com</link>
+    <atom:link href="http://cupick.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 22 Jun 2014 08:12:24 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2014 08:12:24 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2014 08:21:56 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2014 08:21:56 +0000</lastBuildDate>
 
     
     
     <item>
       <title>Jekyll Incorporated Features test</title>
-      <link>http://incorporated.sendtoinc.com/2013/10/09/incorporated/</link>
+      <link>http://cupick.com/2013/10/09/incorporated/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://incorporated.sendtoinc.com/2013/10/09/incorporated</guid>
+      <guid>http://cupick.com/2013/10/09/incorporated</guid>
       <description>&lt;p&gt;Incorporated provides a great typography, responsive design, author details, semantic markup and more.&lt;/p&gt;
 
 &lt;p&gt;You can set customize post covers, and other things directly in the post front matter:&lt;/p&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>Jekyll Incorporated Features</title>
-      <link>http://incorporated.sendtoinc.com/2013/10/08/incorporated/</link>
+      <link>http://cupick.com/2013/10/08/incorporated/</link>
       <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://incorporated.sendtoinc.com/2013/10/08/incorporated</guid>
+      <guid>http://cupick.com/2013/10/08/incorporated</guid>
       <description>&lt;p&gt;Incorporated provides a great typography, responsive design, author details, semantic markup and more.&lt;/p&gt;
 
 &lt;p&gt;You can set customize post covers, and other things directly in the post front matter:&lt;/p&gt;
