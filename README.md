@@ -1,5 +1,5 @@
-# Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+# Cupick.com
+Modern Jekyll based blog. Great for companies, products or anything. See live at [cupick.github.io/blog](http://cupick.github.io/blog)
 
 ## Installation & Usage
     bundle install
